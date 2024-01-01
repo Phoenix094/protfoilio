@@ -122,21 +122,25 @@ export const Projects = [
     title: "Prompt Finder",
     text: "This is website for users to create and search prompts. This created using NextJs14 Tailwind CSS with MongoDB for Backend. As for User Authentication Google Login is used",
     src: "/prompt-finder.png",
+    link: "https://prompt-finder-omega.vercel.app/",
   },
   {
     title: "Todo Web App",
     text: "This Todo Web app. In this app you can create TODO for your self this only front end app created using ReactJs and Bootstrap",
     src: "/todo.png",
+    link: "https://todo-list-phoenix094.vercel.app/",
   },
   {
     title: "Text Utils",
     text: "This application used to perform different operations on the text. This application also includes word Counter and line Counter. this app is created using React and Bootstrap",
     src: "/text-utils.png",
+    link: "https://text-utlis-kappa.vercel.app/",
   },
   {
-    title: "Matrix themed Website",
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
-    src: "/Matrix.png",
+    title: "Social Dairy",
+    text: "Social Dairy is MERN Application to replicate the Traditional Dairy which we used to write in past about our daily activities or special events in our life ",
+    src: "/social-dairy.png",
+    link: "https://github.com/Phoenix094/Social-Dairy",
   },
 ];
 
