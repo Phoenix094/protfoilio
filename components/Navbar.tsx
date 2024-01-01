@@ -7,13 +7,13 @@ const Navbar = () => {
     <div className="absolute top-0 z-[40] w-full max-h-[100px] bg-transparent flex justify-between items-center py-4 px-10 md:px-20">
       <div className="flex flex-row gap-3 items-center">
         <div className="relative">
-          {/* <Image
-            src="/horseLogo.jpg"
+          <Image
+            src="/PhoenixLogo.png"
             alt="logo"
             width={40}
             height={40}
             className="w-full h-full object-contain rounded-full"
-          /> */}
+          />
         </div>
         <h1 className="text-white hidden sm:block text-[25px] font-semibold">
           Somesh{" "}
