@@ -107,19 +107,19 @@ export const Socials = [
 ];
 export const Projects = [
   {
-    title: "Modern Nextjs Website",
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
-    src: "/NextWebsite.png",
+    title: "Prompt Finder",
+    text: "This is website for users to create and search prompts. This created using NextJs14 Tailwind CSS with MongoDB for Backend. As for User Authentication Google Login is used",
+    src: "/prompt-finder.png",
   },
   {
-    title: "Space Themed Website",
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
-    src: "/SpaceWebsite.png",
+    title: "Todo Web App",
+    text: "This Todo Web app. In this app you can create TODO for your self this only front end app created using ReactJs and Bootstrap",
+    src: "/todo.png",
   },
   {
-    title: "Modern Nextjs Portfolio",
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
-    src: "/WebPortfolio.png",
+    title: "Text Utils",
+    text: "This application used to perform different operations on the text. This application also includes word Counter and line Counter. this app is created using React and Bootstrap",
+    src: "/text-utils.png",
   },
   {
     title: "Matrix themed Website",
@@ -147,6 +147,6 @@ export const NavLinks = [
   {
     name: "/contact-me",
     icon: RxClipboard,
-    link: "/contact-me",
+    link: "/about-me",
   },
 ];
