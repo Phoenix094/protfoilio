@@ -5,7 +5,7 @@ import React from "react";
 
 const Navbar = () => {
   return (
-    <div className="absolute top-0 z-[40] w-full max-h-[100px] bg-transparent flex justify-between items-center py-4 px-10 md:px-20">
+    <div className="absolute top-0 z-[40] w-full max-h-[100px] bg-transparent flex justify-between items-center py-2 md:py-4 px-2 md:px-20">
       <Link href={"/"}>
         <div className="flex flex-row gap-3 items-center">
           <div className="relative">
