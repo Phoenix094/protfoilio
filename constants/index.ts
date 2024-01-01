@@ -93,16 +93,22 @@ export const Socials = [
     name: "Instagram",
     src: "/instagram.svg",
     link: "https://www.instagram.com/_sc_thakur_/",
+    width: 28,
+    height: 28,
   },
   {
     name: "GitHub",
     src: "/github.png",
     link: "https://github.com/Phoenix094",
+    width: 50,
+    height: 50,
   },
   {
     name: "linkedIn",
     src: "/linkedIn.png",
     link: "https://www.linkedin.com/in/somesh-chavhan-a84542217/",
+    width: 38,
+    height: 35,
   },
 ];
 export const Projects = [
