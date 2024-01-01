@@ -92,14 +92,17 @@ export const Socials = [
   {
     name: "Instagram",
     src: "/instagram.svg",
+    link: "https://www.instagram.com/_sc_thakur_/",
   },
   {
-    name: "Facebook",
-    src: "/facebook.svg",
+    name: "GitHub",
+    src: "/github.png",
+    link: "https://github.com/Phoenix094",
   },
   {
-    name: "Instagram",
-    src: "/discord.svg",
+    name: "linkedIn",
+    src: "/linkedIn.png",
+    link: "https://www.linkedin.com/in/somesh-chavhan-a84542217/",
   },
 ];
 export const Projects = [
