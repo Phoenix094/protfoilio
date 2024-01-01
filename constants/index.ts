@@ -45,7 +45,7 @@ export const SkillData = [
     height: 80,
   },
   {
-    name: "Next js 13",
+    name: "Next js 14",
     Image: "/next.png",
     width: 80,
     height: 80,
@@ -57,14 +57,26 @@ export const SkillData = [
     height: 80,
   },
   {
-    name: "Stripe Payment",
-    Image: "/stripe.webp",
-    width: 80,
-    height: 80,
+    name: "Java",
+    Image: "/java.png",
+    width: 90,
+    height: 90,
+  },
+  {
+    name: "C++",
+    Image: "/C++.png",
+    width: 90,
+    height: 90,
   },
   {
     name: "Node js",
     Image: "/node-js.png",
+    width: 80,
+    height: 80,
+  },
+  {
+    name: "mySql",
+    Image: "/mySql.png",
     width: 80,
     height: 80,
   },
@@ -78,7 +90,7 @@ export const SkillData = [
 
 export const Socials = [
   {
-    name: "Discord",
+    name: "Instagram",
     src: "/instagram.svg",
   },
   {
