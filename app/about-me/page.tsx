@@ -17,7 +17,7 @@ const Page = () => {
         </div>
         <div className="flex gap-x-4 text-white items-center">
           <FaGithub className="" size={30} />
-          <a href="http://github.com/Phoenix904">Phoenix094</a>
+          <a href="http://github.com/Phoenix094">Phoenix094</a>
         </div>
         <div className="flex gap-x-4 text-white items-center">
           <FaLinkedin className="" size={30} />
